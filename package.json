@@ -1,0 +1,17 @@
+{
+  "name": "cyberway-keygen",
+  "version": "1.0.0",
+  "description": "",
+  "main": "keygen.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nick Shtefan",
+  "license": "ISC",
+  "dependencies": {
+    "cyberwayjs": "20.0.0-beta7",
+    "node-fetch": "^2.6.0",
+    "randomstring": "^1.1.5",
+    "text-encoding": "^0.7.0"
+  }
+}
