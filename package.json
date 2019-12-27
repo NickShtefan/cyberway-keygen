@@ -12,6 +12,8 @@
     "cyberwayjs": "20.0.0-beta7",
     "node-fetch": "^2.6.0",
     "randomstring": "^1.1.5",
+    "request": "^2.88.0",
+    "request-promise": "^4.2.5",
     "text-encoding": "^0.7.0"
   }
 }
